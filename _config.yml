@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Tim Walker
+subtitle: 'Tim Walker's Blog'
+description: 'Tim Walker's Blog'
 keywords:
-author: John Doe
+author: Tim Walker
 language: en
-timezone: ''
+timezone: 'UTC'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
